@@ -1,11 +1,11 @@
-package org.password;
+package org.user;
 
-public class Password {
-	public static void pswrd() {
+public class Username {
+	public static void password() {
 		System.out.println("password is");
 	}
 	public static void main(String[] args) {
-		pswrd();
+		password();
 	}
 
 }
